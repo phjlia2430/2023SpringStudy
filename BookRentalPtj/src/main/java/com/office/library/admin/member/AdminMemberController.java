@@ -20,7 +20,6 @@ public class AdminMemberController {
 	
 	@Autowired
 	
-	
 	AdminMemberService adminMemberService;
 	
 	/*
